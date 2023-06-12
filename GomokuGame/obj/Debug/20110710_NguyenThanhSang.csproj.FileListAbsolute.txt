@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\bin\Debug\GomokuGame.exe
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\20110710_NguyenThanhSang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\20110710_NguyenThanhSang.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\GomokuGame.Form1.resources
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\GomokuGame.Form2.resources
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\20110710_NguyenThanhSang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\20110710_NguyenThanhSang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Admin\source\repos\20110710_NguyenThanhSang\GomokuGame\obj\Debug\GomokuGame.pdb

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GomokuGame.ChessBoardManager" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEA4IBqSiQFBkgGAGEpAGYYOgcoEESjBUCkgQo4BAg=</HashCode>
+      <FileName>ChessBoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.BtnClickEvent" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BtnClickEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Form1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UQGIEAITgDBeBFAEAgGQAISCnAMAABASJkVaBQgQgQM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Form2" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSAACFAACAAABgAAgCAQAACAAgYAEAAEGAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Player" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.PlayInfo" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAAAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>PlayInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Program" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.SocketData" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAABAAAAAQAAAAAAAAAIAAAACA=</HashCode>
+      <FileName>SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.SocketManager" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgACAAAABIAAAAAAAEkAAAAAKBAAAgAQAAAABAAEAAI=</HashCode>
+      <FileName>SocketManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Cons" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAQAAAAAAAAAAgEAAAAAAAAAIAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Cons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAEAQAAAAAACABAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GomokuGame.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GomokuGame.SocketCommand" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACCBAAAAAAAAAAAAAAAABAAIAABE=</HashCode>
+      <FileName>SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

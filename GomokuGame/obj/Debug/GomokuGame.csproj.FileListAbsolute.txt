@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Form1.resources
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.pdb
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Form2.resources
+C:\Users\Admin\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.AssemblyReference.cache
